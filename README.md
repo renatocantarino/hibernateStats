@@ -11,3 +11,4 @@ Grade:
 7. Lock pessista e otimista 
 8. hibernate cache e fine-tunning (1º level, 2º level , querys)
 9. hibernate Statistics 
+10. JSP e JSTL
